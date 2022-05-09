@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [Kensu Inc](https://www.kensu.io)
+- 🔭 I’m currently searching a new position
 - 🗞 [IMHO on Life, Engineering, Computing and France...](https://www.famipow.com/)
 - 😄 Pronouns: he/him
 - 🐧 [Twitter](https://twitter.com/frbayart)
-- 📇 [Work Experience](https://www.linkedin.com/in/frbayart/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/frbayart/)
+- 🚀 [Résumé](http://www.francois-bayart.com/)
 - ☕️ [Buy me a coffee (or donut)](http://ko-fi.com/frbayart) 
