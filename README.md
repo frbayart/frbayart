@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
 - 📍 Available for New Opportunities
+-->
 - 🗞 [IMHO on Life, Engineering, Computing and France...](https://www.famipow.com/)
 - 😄 Pronouns: he/him
 - 🐧 [Twitter](https://twitter.com/frbayart)
